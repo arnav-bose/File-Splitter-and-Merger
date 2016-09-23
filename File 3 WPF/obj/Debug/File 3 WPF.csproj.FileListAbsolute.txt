@@ -1,0 +1,13 @@
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\bin\Debug\File 3 WPF.exe.config
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\bin\Debug\File 3 WPF.exe
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\bin\Debug\File 3 WPF.pdb
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File 3 WPF.csprojResolveAssemblyReference.cache
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\MainWindow.baml
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\App.g.cs
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File 3 WPF_MarkupCompile.cache
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File 3 WPF.g.resources
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File_3_WPF.Properties.Resources.resources
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File 3 WPF.csproj.GenerateResource.Cache
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File 3 WPF.exe
+C:\Users\arnavbose\Documents\Visual Studio 2013\Projects\CMC\Project\File 3 WPF\File 3 WPF\obj\Debug\File 3 WPF.pdb
